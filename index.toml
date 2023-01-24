@@ -1,0 +1,185 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "8c2934e1be8c9a6723de7727107d587712e72c599cd22b7ca7f279a3d6281770"
+metafile = true
+
+[[files]]
+file = "mods/addadd.pw.toml"
+hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
+metafile = true
+
+[[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "0c01d7d975292628888b766449e2e2ec1325c242ff9bd3a8221e6d8fed49bd50"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
+metafile = true
+
+[[files]]
+file = "mods/bendy-lib.pw.toml"
+hash = "8e65a2c5cb6a82e0c84e5ed1fd40410488736f95fd6e39aa282a2e782ae02c9b"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "cc321242d70d27ad8168b08dcec277f60db25801e0bd7dcc4dcfc94b72618672"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "fa7eed08ecb81a2cc3ec4f9cc5387874936f2496a5739ec71d263a6f26a45c34"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "f53f6e9fd20d04b26e04ad91b9cd541146d0691d4b463949c8192a9a706cce97"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "c5fe06b7d389fa87dadca4f4974660eff26b336a908ee506fd616f717e1be581"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "3a39f2516623bc4ab7feccdabbe4fa35633c2531111a5436a670c902056d9d6c"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "4d71d8a1e60968129eda9a3fc3e6616404e8969a71cef7cf8d4328d6a7bebca5"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "0dae59129e00d7a9e9bd231efc735cb650b8f582fe18138c555c403c6daf5565"
+metafile = true
+
+[[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "0cf50ca461e5fdb9af2ddc0a5d9661b6d578b0897dd6597a875255e4ed656450"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "800e1b77a27265f4e3057e929f6453a83554af5a563effdf1d3871a5022916a4"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "60eff3efa4c72b6ba8eecdc8a5072d03dd02b791f9b01bbc5b518e7e1b9bd30d"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
+metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
