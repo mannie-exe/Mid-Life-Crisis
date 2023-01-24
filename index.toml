@@ -291,16 +291,6 @@ hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
 metafile = true
 
 [[files]]
-file = "mods/origins-plus-plus.pw.toml"
-hash = "c9dd736fc7bf45aee621f51f723495ccdcc310659f5be6e81d450492ed6c3c9f"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
