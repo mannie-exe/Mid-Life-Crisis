@@ -5,6 +5,10 @@ file = "config/fallingtree.json"
 hash = "c4e3f3879b7a754bbd7f2972c770f669c3bb88a1aaa259da187fca5ac14fdf51"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "826818b4bcae67ae02d38fb0a512d9e520d85c9d5fb897fe5dcba8138b13dc26"
+
+[[files]]
 file = "config/map_atlases.json5"
 hash = "09f0e84d27a4fea002a1b3c4df82a6833c1d4151b83d7581bf16464881bea661"
 
