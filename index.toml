@@ -96,6 +96,16 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
+file = "mods/chalk-colorful-addon.pw.toml"
+hash = "96ddaae016a3fa6eecb88d9e8ad6f0e15dbd856bae9f8380a091b2316b7a9f6b"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "776d8d4d93ed3052d46f77857707a09dfd77196b2e55de23455e2e4c81e36af9"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
@@ -106,8 +116,18 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "9fef28e9fc4a63280128c66c9f7c412b1fe80e56f7d69b94d00b001f5fb39735"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
@@ -176,8 +196,18 @@ hash = "7ae83690f725e59e7d527fc272e16a120a7fa683f25b4e4142b121b3828ecfc5"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "776396ca2450c8cb20a052ca0fb8247ac2bd03ff5f2baa8a05103dc4bd6c405c"
 metafile = true
 
 [[files]]
@@ -203,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
@@ -291,6 +326,11 @@ hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
 metafile = true
 
 [[files]]
+file = "mods/radiant-gear-fabric.pw.toml"
+hash = "f0dce3c83ecd81306699e9ce441a04cbd33f60523f10eb892ffc91d7f2675d22"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "60eff3efa4c72b6ba8eecdc8a5072d03dd02b791f9b01bbc5b518e7e1b9bd30d"
 metafile = true
@@ -346,6 +386,11 @@ hash = "bd8b1d6b71204c2b6548c38ccef1add5570b6c06472d3fdc37d65ee6b9da501b"
 metafile = true
 
 [[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "9776271462003fc6637b58a44af2977e3bd481fb0f1918b9395b4df440aa4469"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "f0c490ddd5aa6bfd096059967f8e954b6771bcf2201ae9a6dd195e6e1b22a908"
 metafile = true
@@ -353,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "0e87c2ff28e24ef808b475af9e45452cce6216c624523bf756acce1fde23ac2c"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
 metafile = true
 
 [[files]]
