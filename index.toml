@@ -221,6 +221,11 @@ hash = "2210295dafe13407cfaabb19e51d24dc5960f86724f3d2d0759c48b1f7c77aea"
 metafile = true
 
 [[files]]
+file = "mods/immersive-travel-overhaul.pw.toml"
+hash = "c311cb103d015258313b88918baff0cb0b6c21bd4ff065d5ab206071c4e021fa"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "393c6fc6f6b950fd5794034d9330372c62f217319031297d558326096a5209a4"
 metafile = true
 
 [[files]]

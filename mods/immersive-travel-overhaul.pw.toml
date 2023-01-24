@@ -1,0 +1,13 @@
+name = "Immersive Travel Overhaul"
+filename = "ITO-1.02.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1573c3ab7146141ab29226054041732a25f6306"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4105390
+project-id = 460466
