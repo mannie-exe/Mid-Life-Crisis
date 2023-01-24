@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "c4e3f3879b7a754bbd7f2972c770f669c3bb88a1aaa259da187fca5ac14fdf51"
+
+[[files]]
+file = "config/map_atlases.json5"
+hash = "09f0e84d27a4fea002a1b3c4df82a6833c1d4151b83d7581bf16464881bea661"
+
+[[files]]
+file = "config/mousewheelie.hjson"
+hash = "5fd31f11124801117c6de6f0b2d703fd705a4b34e541297a2bdb0c254966bff0"
+
+[[files]]
+file = "config/yigd.toml"
+hash = "88030a7d185d821e87faa3a7f2837b2325a65227f22436d9fa8cb2d000cdcc04"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
