@@ -1,12 +1,12 @@
 name = "Mid-Life Crisis"
 author = "@mannie-exe"
-version = "0.6.3"
+version = "0.6.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "515a59257236763e6297f390f2a88578e70213e63049a4f525cdb55c3ddee5ea"
+hash = "9dea88cbd920cdaf7370e1d1af410432d9623ab873f2e7683c76f6e241c5aa12"
 
 [versions]
 minecraft = "1.19.2"

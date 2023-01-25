@@ -61,6 +61,11 @@ hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
 metafile = true
@@ -421,11 +426,16 @@ hash = "0e87c2ff28e24ef808b475af9e45452cce6216c624523bf756acce1fde23ac2c"
 metafile = true
 
 [[files]]
+file = "mods/wthit.pw.toml"
+hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
+metafile = true
+
+[[files]]
 file = "mods/yigd.pw.toml"
 hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7590171334fb87cae7b41ef78a4f2e1e5081de7be7756b32c75bbac4c956b74a"
+hash = "c59736c22c48867652606219ecf77403a1c69470ee007f644231cc8b46e2b5c2"
 preserve = true
