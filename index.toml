@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/HorseBuff.toml"
+hash = "38f4c6a1d14c77415c977bbe51cc42be4f669baf981eb094d3f0d7cc1d6d6845"
+
+[[files]]
 file = "config/fallingtree.json"
 hash = "c4e3f3879b7a754bbd7f2972c770f669c3bb88a1aaa259da187fca5ac14fdf51"
 
@@ -336,6 +340,11 @@ hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
 metafile = true
 
 [[files]]
+file = "mods/lil-wings.pw.toml"
+hash = "672ce460e6c4359013b6c0dc1e5d2ff788b2ab851f845651842ff4c5e788e02f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
@@ -348,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "393c6fc6f6b950fd5794034d9330372c62f217319031297d558326096a5209a4"
+metafile = true
+
+[[files]]
+file = "mods/megaparrot.pw.toml"
+hash = "2c693592b663401b0351902846059f479f3a33c89b7faae2acc69e47364411c7"
 metafile = true
 
 [[files]]
@@ -368,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "a7720df455042b8b3f24d90a3b21352049377a4066a06a0dec4759063be8b3df"
+metafile = true
+
+[[files]]
+file = "mods/morefrogs.pw.toml"
+hash = "213938169a69fe26d343bcef7c90c50f2b9b13e46b3d9ad7c37ef81cd2a14d7b"
 metafile = true
 
 [[files]]
@@ -446,6 +465,21 @@ hash = "39171ee75f15caf575ea1bedd587004c1a866567c7195cce540a0c01d62a3085"
 metafile = true
 
 [[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
+metafile = true
+
+[[files]]
+file = "mods/skylib.pw.toml"
+hash = "6803ee2e6d7f6d15d6a9d7198fb37c57af5294e94dba16df1aec8db6f8a7ed1d"
+metafile = true
+
+[[files]]
+file = "mods/snowpig-fabric.pw.toml"
+hash = "e491e9d63c8febff9ac19a5bb79eccac1efafe89c5724a945a106e716f8c53f9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
@@ -503,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "c3ac0a55d9ad70ffd09246354dd3da272b35adf8543ba0654b3bd885d80e0830"
+metafile = true
+
+[[files]]
+file = "mods/wondrous-wilds.pw.toml"
+hash = "22a439a80238535b56a755d5e3e575eee77c14a3468df6f20db49d63372a761c"
 metafile = true
 
 [[files]]

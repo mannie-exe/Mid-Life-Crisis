@@ -1,0 +1,13 @@
+name = "Wondrous Wilds"
+filename = "wondrouswilds-1.19.2-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oTNK0RPW/versions/1YMq7qpK/wondrouswilds-1.19.2-1.1.5.jar"
+hash-format = "sha1"
+hash = "b1a28771e4fa9fef0dd25c28b07224eec0e9fb3a"
+
+[update]
+[update.modrinth]
+mod-id = "oTNK0RPW"
+version = "1YMq7qpK"
