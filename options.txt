@@ -1,6 +1,6 @@
 version:3120
 quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","create/legacy_copper","minecraft/supporteatinganimation","programer_art","vanilla"]
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
