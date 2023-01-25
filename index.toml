@@ -106,6 +106,11 @@ hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "aa5edd2c0991a3e43e61bc8c20afc354c9101a328c319af6f2a7682f14764b4c"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "c5fe06b7d389fa87dadca4f4974660eff26b336a908ee506fd616f717e1be581"
 metafile = true
@@ -261,6 +266,16 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "9390866ca66d509916b91da07e5ae95ac5dd4c64dad056ba7f22939e33f87fb3"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "8d8af67b3682e79c504e52e1dc539c01107e9f8bc58d0da7eec54626d00669d5"
+metafile = true
+
+[[files]]
 file = "mods/item-model-fix.pw.toml"
 hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
@@ -293,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "cc5cbb9430eea35ef7c057f811ce47e7b8da276689ec5783e0f234bc295e289d"
 metafile = true
 
 [[files]]
@@ -368,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/radiant-gear-fabric.pw.toml"
 hash = "f0dce3c83ecd81306699e9ce441a04cbd33f60523f10eb892ffc91d7f2675d22"
+metafile = true
+
+[[files]]
+file = "mods/realisticsleep.pw.toml"
+hash = "5b6d8b48d669b75919b47f5c6fe138d64df5f805b7e0b948969cac9bb487e1bb"
 metafile = true
 
 [[files]]
