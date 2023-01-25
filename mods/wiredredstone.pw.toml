@@ -1,0 +1,13 @@
+name = "Wired Redstone"
+filename = "wired-redstone-0.4.14+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lyYGrdho/versions/yo3m7aYA/wired-redstone-0.4.14%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "6cf341437a1ca0199a4e9616e4fba4edc7110f95"
+
+[update]
+[update.modrinth]
+mod-id = "lyYGrdho"
+version = "yo3m7aYA"
