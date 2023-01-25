@@ -5,6 +5,14 @@ file = "config/HorseBuff.toml"
 hash = "38f4c6a1d14c77415c977bbe51cc42be4f669baf981eb094d3f0d7cc1d6d6845"
 
 [[files]]
+file = "config/betterdeserttemples-fabric-1_19.toml"
+hash = "d394143e5d0a30bf1fe441cdc942f042d04c3eef8b58fe2e506ef2a3ba0dc388"
+
+[[files]]
+file = "config/betterwitchhuts-fabric-1_19.toml"
+hash = "c8cd377bdf72795ee5557b0394e224f8ccf8be82f641d2b75afad05e6856a7b7"
+
+[[files]]
 file = "config/fallingtree.json"
 hash = "c4e3f3879b7a754bbd7f2972c770f669c3bb88a1aaa259da187fca5ac14fdf51"
 
@@ -232,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]
