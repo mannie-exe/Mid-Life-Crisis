@@ -708,5 +708,6 @@ FodyWeavers.xsd
 *.mrpack
 *.jar
 !mods/*.jar
+!config/*
 
 README.md
