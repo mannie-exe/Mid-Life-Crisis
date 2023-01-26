@@ -78,8 +78,18 @@ hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "05190346d8cd9d0144dfeac6c68f766fb9f34e0b916483d5360b4883b60b282d"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
 metafile = true
 
 [[files]]
@@ -188,6 +198,11 @@ hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "c260f534ab479644b4f8cb52334fda29db09e54762f1e5da207d301ff8b1c6d8"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "3a39f2516623bc4ab7feccdabbe4fa35633c2531111a5436a670c902056d9d6c"
 metafile = true
@@ -195,6 +210,26 @@ metafile = true
 [[files]]
 file = "mods/ctov-farmers-delight-compat.pw.toml"
 hash = "4d71d8a1e60968129eda9a3fc3e6616404e8969a71cef7cf8d4328d6a7bebca5"
+metafile = true
+
+[[files]]
+file = "mods/damage-tilt.pw.toml"
+hash = "47fc3c834eea3ed3ffa06961b124bcaf3a54e00e7ac8fcc1879ffad1af712053"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "fdb6ee70b285757658aab55f6c32af29edef9b5a868045749324b857a611c5f6"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e2afbc3309cc74403a233f280add040fdd5b94fc949db291d863635d5830d8b1"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "5bae2fe13d7ae3f88581b99ded520ade6ca9fd17a8502d28d7948378909bef09"
 metafile = true
 
 [[files]]
@@ -243,6 +278,11 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "01faac83fead0ee063bc16a988b516149d72c220f97223a31141ccd0116648ce"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
@@ -283,6 +323,11 @@ hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers-fabric.pw.toml"
+hash = "0cb84364fa307d06185dfafc4f3fa8706fd9c60128abf8b65fae109ead7dfcca"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "776396ca2450c8cb20a052ca0fb8247ac2bd03ff5f2baa8a05103dc4bd6c405c"
 metafile = true
@@ -299,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "0718f75d4608f6e55aad50f32c79f5641045ce28637094559e64a6c6b05d1521"
+hash = "ba73ee08a08351f8ba3895a24a477bf14216724d06e28ddc10b3179f3a4fa86e"
 metafile = true
 
 [[files]]
@@ -333,6 +378,11 @@ hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "6dfd13ace326dda65c4d580eecbd060557dbb29061d86b9efb3fd0b3b586aae2"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "edf8d8c443125e1e5ee2e35dabc3989e4a7a77b2f77cfb4cc47d1fc95d8ef6a2"
 metafile = true
@@ -345,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs-fabric.pw.toml"
+hash = "6b562b8c2e670f9544b066972f81505c13e2088d2ee567742ba21be49cebd975"
 metafile = true
 
 [[files]]
@@ -423,6 +478,11 @@ hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "eecda5df2a473843f1ca79945b466f4e72ab4ee1cff9f00dba9df6b7bc127994"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
@@ -438,6 +498,11 @@ hash = "0c137fc602775302c23539446a7d562d9f2b903aa0a972b85314088d1f705492"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "84b06b08856679a7607e86219bd0b48fe9db281fc70889fe0146ec2fdb0a6448"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "800e1b77a27265f4e3057e929f6453a83554af5a563effdf1d3871a5022916a4"
 metafile = true
@@ -450,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
 
 [[files]]
@@ -488,6 +558,11 @@ hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "c4d5e63220a5ac04f2db9767dc68aec575dcb930cd4fb1dab4dc456dc586533f"
+metafile = true
+
+[[files]]
 file = "mods/sky-villages.pw.toml"
 hash = "472e85c66624b2a93f2d1a25c4f01dcf534525e271e6e525c610411fa2d1fb9f"
 metafile = true
@@ -505,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
 metafile = true
 
 [[files]]
@@ -555,6 +635,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "9776271462003fc6637b58a44af2977e3bd481fb0f1918b9395b4df440aa4469"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "fa784869ca02d130c3590103242d5890115edd7a9308800b075afb31927caaed"
 metafile = true
 
 [[files]]

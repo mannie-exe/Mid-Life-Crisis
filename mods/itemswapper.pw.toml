@@ -1,0 +1,13 @@
+name = "ItemSwapper"
+filename = "itemswapperplugin-0.0.1-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26358693d790daf233747a0aebb3d3186d693806"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4153826
+project-id = 694358
