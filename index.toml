@@ -489,6 +489,10 @@ file = "config/itemmodelfix.json"
 hash = "f67460631e5dd59fd646347174cfe7b8de38be6556bb928bea4619cbd6f32616"
 
 [[files]]
+file = "config/itemswapper.json"
+hash = "71056b19b3b7404897c1874c704160e241a97adeaf7a39901b5a7dbea8a47ecf"
+
+[[files]]
 file = "config/jade/hide-entities.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
@@ -1378,5 +1382,5 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "035e2bb70736a0dc53b8d4d766e000471d147e26e63233e5acb91c3bd7bc1d21"
+hash = "8028fef4eb1793759f50677074776c3ec9a4ed47988d528ca9e1fc8ee950aa78"
 preserve = true
