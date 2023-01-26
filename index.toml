@@ -433,14 +433,6 @@ file = "config/entityculling.json"
 hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 
 [[files]]
-file = "config/everycomp-common.json"
-hash = "9e3f3d5750ab09705b9e9e35d54c135cde62d5ba63aa8e0fcd5761f53b4e2742"
-
-[[files]]
-file = "config/everycomp-wood_types.json"
-hash = "33983e70f8fe09f72a095f1c6df1c1c04707bfc84c84f3b87442a7bb838b3299"
-
-[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "3622ed8535d90b8a74eb58dc4cd8d91e99df92f2d6fe6bb377c740b680959c30"
 
@@ -941,11 +933,6 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "01faac83fead0ee063bc16a988b516149d72c220f97223a31141ccd0116648ce"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
@@ -1162,7 +1149,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "84b06b08856679a7607e86219bd0b48fe9db281fc70889fe0146ec2fdb0a6448"
+hash = "dde8eb1ed065c0f3ae19774ccbeba271dc6ecd248cf68f5312c8f70d23764d1a"
 metafile = true
 
 [[files]]
