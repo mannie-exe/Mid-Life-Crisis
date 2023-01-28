@@ -1,0 +1,13 @@
+name = "Simple Hotbar"
+filename = "SimpleHotbar.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d0w6GHbr/versions/h82J5yRW/SimpleHotbar.zip"
+hash-format = "sha1"
+hash = "1564d3682a472c62b393e80f1cf8a3dff27f26e1"
+
+[update]
+[update.modrinth]
+mod-id = "d0w6GHbr"
+version = "h82J5yRW"

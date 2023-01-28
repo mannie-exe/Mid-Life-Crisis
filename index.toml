@@ -613,6 +613,18 @@ file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "24b66a5e2f509921d096787893a20fa8c45366bdac3ad45e7004f5a2a776db3f"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "cddc16887ca039513e8d701f10bd457ecb4cd6fd70310dd34adf4466d45b8c9d"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "0693e7ed2a67cc03dd92effbc97e90fb26e95082ac1bc18736008a53d5c73d2a"
+
+[[files]]
 file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
@@ -715,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "3cce9bc7a299070cffd83336372c0747c70ddbf19d0baf203347ef1ad35828e2"
 metafile = true
 
 [[files]]
@@ -1128,6 +1145,11 @@ hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "87b3d9de4a5076c4d67a529661753ba22556bde7751187778425121d97c7d5b4"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "eecda5df2a473843f1ca79945b466f4e72ab4ee1cff9f00dba9df6b7bc127994"
 metafile = true
@@ -1208,6 +1230,11 @@ hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
 metafile = true
 
 [[files]]
+file = "mods/scout.pw.toml"
+hash = "9220edac770c544c7c4aab53580f9a01b8e9e7a82e17f4bd7d4432b1b48998c9"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "c4d5e63220a5ac04f2db9767dc68aec575dcb930cd4fb1dab4dc456dc586533f"
 metafile = true
@@ -1230,6 +1257,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
 metafile = true
 
 [[files]]
@@ -1369,5 +1401,30 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8028fef4eb1793759f50677074776c3ec9a4ed47988d528ca9e1fc8ee950aa78"
+hash = "35a02aafb996a3733f786f1c6338dc789b24963d6ddbeaa700a3805a75da8cf8"
 preserve = true
+
+[[files]]
+file = "resourcepacks/faithless.pw.toml"
+hash = "379be7e35ef32cfc07d3e130a261ad3dd7d9ac0202734d31fbb7107708d2cea3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/overgrown-flowery-gui.pw.toml"
+hash = "1b98b7973179c92b3e610c641251701279b7347de190a3c8a197328a7a920a14"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-hotbar.pw.toml"
+hash = "f444911a14e1fd1726987551c593d03d2f893b58a511f1eb6caf5182acd37ea6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "2bca25979ded624274c1a87fa5d68962be036a75dbca3abb2437ca59a00b3c20"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "653377752b486ddf811df91307da97fbb027ac0520626f37a32b1a2fd8c0bcd5"
+metafile = true
